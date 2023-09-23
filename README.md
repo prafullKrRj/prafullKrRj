@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prafull Kumar
 - 👀 I’m interested in Android Development and software engineering.
-- 🌱 I’m currently learning Jetpack comopose (MVVM), RetroFit
+- 🌱 I’m currently learning Jetpack comopose.
 - 💞️ I’m looking to collaborate on Beginner to Intermediate level Android Projects
 - 📫 You can reach me on my LinkedIn given in Github profile Section
