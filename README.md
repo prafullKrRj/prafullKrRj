@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Prafull Kumar</h1>
 <h3 align="center">A passionate Android developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prafullkrrj&label=Profile%20views&color=0e75b6&style=flat" alt="prafullkrrj" /> </p>
-
 - 🌱 I’m currently learning **Jetpack Compose**
 
 - 💬 Ask me about **Android Development**
