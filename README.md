@@ -7,6 +7,16 @@
 
 - 📫 How to reach me **prafullcodes@gmail.com**
 
+- 🌐 Check out my personal portfolio [prafullkumar.com](http://prafullkumar.com)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/prafull-kumar-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Soc[...]
+<a href="https://www.hackerrank.com/woozyaftedoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/[...]
+<a href="https://www.leetcode.com/prafullkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/lee[...]
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prafull-kumar-rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prafull-kumar-rajput" height="30" width="40" /></a>
