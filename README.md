@@ -8,7 +8,7 @@
 ### 👨‍💻 About Me:
 
 - 🌱 I'm currently learning **Jetpack Compose**
-- - 🌐 Portfolio: [prafullkumar.com](http://prafullkumar.com)
+- 🌐 Portfolio: [prafullkumar.com](http://prafullkumar.com)
 - 💬 Ask me about **Android Development**
 - 📫 Reach me at: **prafullcodes@gmail.com**
 
