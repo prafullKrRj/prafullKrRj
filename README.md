@@ -15,6 +15,10 @@
 
 ### 🤝 Connect with me:
 <p align="left">
+  <a href="https://play.google.com/store/apps/developer?id=Prafull+Kumar" target="_blank">
+  <img src="https://img.shields.io/badge/-Play%20Store-0F9D58?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Store"/>
+</a>
+
   <a href="https://linkedin.com/in/prafull-kumar-rajput" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
